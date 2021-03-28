@@ -5,6 +5,7 @@ Arxiv link: https://arxiv.org/abs/1911.09070
 
 Updates:
 
+  - Mar28/2021:Added scanoss webhook
   - Mar25/2021: Added [Det-AdvProp](https://arxiv.org/abs/2103.13886) model checkpoints ([see this page](./Det-AdvProp.md)).
   - Jul20/2020: Added keras/TF2 and new SOTA D7x: 55.1mAP with 153ms.
   - Apr22/2020: Sped up end-to-end latency: D0 has up to >200 FPS throughput on Tesla V100.
